@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hey, I'm Akhilesh Kancharla
 
-<!--
-**Akhilesh-Kancharla/Akhilesh-Kancharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergrad @ MGIT | Batch of 2028  
+🛠️ Project-driven learner focused on **Data Science**, **Backend Logic**, and **Mathematical Programming**  
+📍 Exploring the world of Python, SQL, and C — one line of logic at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects That Define Me
+
+### ⚡ IPL360 – Cricket Analytics Engine (Python)
+
+A Python-powered analytics system processing over **1100+ IPL match files** to generate:
+
+- Player performance reports  
+- Pitch behavior analytics  
+- Fantasy XI recommendations  
+- Pressure/clutch performance metrics  
+- Flask based Web App
+
+> **Stack:** Python, PyYAML, SQLite, Flask, Data Structures, Statistics  
+> **Status:** 🛠 Work in Progress | Launching Soon  
+
+---
+
+### 🧪 Alloy Design Optimizer (C)
+
+A matrix-based program that calculates the ideal **composition of an alloy** based on selected **metal properties** and **element contributions**.
+
+- User selects 3 properties and 3 metals  
+- Constructs a matrix of contribution values  
+- Solves for the best-fit metal ratios using characteristic polynomials
+
+> **Stack:** C, Linear Algebra, Math Logic, Procedural Design  
+> **Status:** ✅ Complete  
+> [GitHub Repo](https://github.com/yourusername/alloy-design)
+
+---
+
+### 🧠 Eigenvalue Calculator for 3×3 Matrices (C)
+
+Computes real **eigenvalues** of a 3×3 matrix using:
+
+- Cubic characteristic equation
+- Discriminant-based root solving
+- Matrix decomposition approach
+
+> **Stack:** C, Determinants, Cubic Root Solver, `math.h`  
+> **Status:** ✅ Complete  
+> [GitHub Repo](https://github.com/yourusername/eigenvalue-calculator)
+
+---
+
+## 🧰 Tech Stack
+
+- 💻 **Languages:** Python • C • SQL (PostgreSQL & SQLite) • HTML/CSS
+- 📊 **Tools/Frameworks:** Tkinter • VS Code • Git/GitHub
+- 🧠 **Focus Areas:** Data Science, Backend Algorithms, Matrix Math, CLI Tools
+
+---
+
+## 🧭 Currently Exploring
+
+- Pandas & Data Visualizations  
+- Web UI for data dashboards  
+- Database Optimization & Querying
+
+---
+
+## 🏆 Highlights
+
+- 📍 Campus Ambassador – IIT Bombay (Techfest 2025)  
+- 🧠 Participant in multiple coding & hackathon events across colleges  
+- ✍️ Actively building project-based learning portfolio
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](www.linkedin.com/in/akhilesh-kancharla-63b5b6327)  
+- 📧 akhileshkancharla5@gmail.com
+- 💼 Portfolio: Coming Soon
+
+---
+
+### 🚀 Let's build real-world solutions from raw ideas and raw data.
