@@ -33,7 +33,7 @@ A matrix-based program that calculates the ideal **composition of an alloy** bas
 
 > **Stack:** C, Linear Algebra, Math Logic, Procedural Design  
 > **Status:** ✅ Complete  
-> [GitHub Repo](https://github.com/yourusername/alloy-design)
+> [GitHub Repo](https://github.com/Akhilesh-Kancharla/alloy-design-optimizer)
 
 ---
 
