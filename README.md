@@ -20,6 +20,7 @@ A Python-powered analytics system processing over **1100+ IPL match files** to g
 
 > **Stack:** Python, PyYAML, SQLite, Flask, Data Structures, Statistics  
 > **Status:** 🛠 Work in Progress | Launching Soon  
+> [GitHub Repo](https://github.com/Akhilesh-Kancharla/cricklytics)
 
 ---
 
@@ -34,20 +35,6 @@ A matrix-based program that calculates the ideal **composition of an alloy** bas
 > **Stack:** C, Linear Algebra, Math Logic, Procedural Design  
 > **Status:** ✅ Complete  
 > [GitHub Repo](https://github.com/Akhilesh-Kancharla/alloy-design-optimizer)
-
----
-
-### 🧠 Eigenvalue Calculator for 3×3 Matrices (C)
-
-Computes real **eigenvalues** of a 3×3 matrix using:
-
-- Cubic characteristic equation
-- Discriminant-based root solving
-- Matrix decomposition approach
-
-> **Stack:** C, Determinants, Cubic Root Solver, `math.h`  
-> **Status:** ✅ Complete  
-> [GitHub Repo](https://github.com/yourusername/eigenvalue-calculator)
 
 ---
 
