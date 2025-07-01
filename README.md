@@ -64,7 +64,7 @@ A matrix-based program that calculates the ideal **composition of an alloy** bas
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/akhilesh-kancharla-63b5b6327)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-kancharla-63b5b6327)  
 - 📧 akhileshkancharla5@gmail.com
 - 💼 Portfolio: Coming Soon
 
