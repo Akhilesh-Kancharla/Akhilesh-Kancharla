@@ -8,7 +8,7 @@
 
 ## 🚀 Projects That Define Me
 
-### ⚡ IPL360 – Cricket Analytics Engine (Python)
+### ⚡ Cricklytics – Cricket Analytics Engine (Python)
 
 A Python-powered analytics system processing over **1100+ IPL match files** to generate:
 
